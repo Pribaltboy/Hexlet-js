@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/Pribaltboy/Hexlet-js/issues"
   },
-  "homepage": "https://github.com/Pribaltboy/Hexlet-js#readme"
+  "homepage": "https://github.com/Pribaltboy/Hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.8"
+  }
 }
